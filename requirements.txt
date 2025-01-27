@@ -1,0 +1,12 @@
+pandas~=2.2.3
+azure-cosmos
+langchain-openai~=0.3.2
+python-dotenv~=1.0.1
+streamlit
+azure-core~=1.32.0
+tenacity~=9.0.0
+langgraph~=0.2.67
+langchain-core~=0.3.31
+
+
+
